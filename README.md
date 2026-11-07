@@ -10,6 +10,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 ### Artificial intelligence chatbot/ LLM (ChatGPT alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
+[Ollama](https://github.com/ollama/ollama)|[ollama.com](https://ollama.com)|<a href=https://github.com/ollama/ollama><img src="https://img.shields.io/github/stars/ollama/ollama?style=flat" width=100/></a>
 [OpenAssistant](https://github.com/LAION-AI/Open-Assistant)|[open-assistant.io](https://open-assistant.io/)|<a href=https://github.com/LAION-AI/Open-Assistant><img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=flat" width=100/></a>
 [Leon](https://github.com/leon-ai/leon)|[getleon.ai](https://getleon.ai/)|<a href=https://github.com/leon-ai/leon><img src="https://img.shields.io/github/stars/leon-ai/leon?style=flat" width=100/></a>
 [ChatRWKV](https://github.com/BlinkDL/ChatRWKV)|[twitter.com/BlinkDL_AI](https://twitter.com/BlinkDL_AI)|<a href=https://github.com/BlinkDL/ChatRWKV><img src="https://img.shields.io/github/stars/BlinkDL/ChatRWKV?style=flat" width=100/></a>
@@ -18,6 +19,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 [LibreChat](https://github.com/danny-avila/LibreChat)|[librechat.ai](https://www.librechat.ai/)|<a href=https://github.com/danny-avila/LibreChat><img src="https://img.shields.io/github/stars/danny-avila/LibreChat?style=flat" width=100/></a>
 [Jan](https://github.com/janhq/jan)|[jan.ai](https://jan.ai/)|<a href=https://github.com/janhq/jan><img src="https://img.shields.io/github/stars/janhq/jan?style=flat" width=100/></a>
 [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)|[anythingllm.com](https://anythingllm.com/)|<a href=https://github.com/Mintplex-Labs/anything-llm><img src="https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=flat" width=100/></a>
+[big-AGI](https://github.com/enricoros/big-AGI)|[big-agi.com](https://big-agi.com)|<a href=https://github.com/enricoros/big-AGI><img src="https://img.shields.io/github/stars/enricoros/big-AGI?style=flat" width=100/></a>
 
 ### AI code completion (Github CoPilot alternatives):
 |Company|Website|GitHub stars|
@@ -38,6 +40,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 [Outline](https://github.com/outline/outline)|[getoutline.com](https://www.getoutline.com/)|<a href=https://github.com/outline/outline><img src="https://img.shields.io/github/stars/outline/outline?style=flat" width=100/></a>
 [BookStack](https://github.com/BookStackApp/BookStack)|[bookstackapp.com](https://www.bookstackapp.com/)|<a href=https://github.com/BookStackApp/BookStack><img src="https://img.shields.io/github/stars/BookStackApp/BookStack?style=flat" width=100/></a>
 [Wiki.js](https://github.com/requarks/wiki)|[js.wiki](https://js.wiki/)|<a href=https://github.com/requarks/wiki><img src="https://img.shields.io/github/stars/requarks/wiki?style=flat" width=100/></a>
+[HedgeDoc](https://github.com/hedgedoc/hedgedoc)|[hedgedoc.org](https://hedgedoc.org)|<a href=https://github.com/hedgedoc/hedgedoc><img src="https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=flat" width=100/></a>
 
 ### Internal tools (Retool alternatives):
 |Company|Website|GitHub stars|
@@ -56,6 +59,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 [Matomo](https://github.com/matomo-org/matomo)|[matomo.org](https://matomo.org/)|<a href=https://github.com/matomo-org/matomo><img src="https://img.shields.io/github/stars/matomo-org/matomo?style=flat" width=100/></a>
 [Umami](https://github.com/umami-software/umami)|[umami.is](https://umami.is/)|<a href=https://github.com/umami-software/umami><img src="https://img.shields.io/github/stars/umami-software/umami?style=flat" width=100/></a>
 [Plausible](https://github.com/plausible/analytics)|[plausible.io](https://plausible.io/)|<a href=https://github.com/plausible/analytics><img src="https://img.shields.io/github/stars/plausible/analytics?style=flat" width=100/></a>
+[Shynet](https://github.com/milesmcc/shynet)|[shynet.io](https://shynet.io)|<a href=https://github.com/milesmcc/shynet><img src="https://img.shields.io/github/stars/milesmcc/shynet?style=flat" width=100/></a>
 [OpenWebAnalytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics)|[openwebanalytics.com](https://www.openwebanalytics.com/)|<a href=https://github.com/Open-Web-Analytics/Open-Web-Analytics><img src="https://img.shields.io/github/stars/Open-Web-Analytics/Open-Web-Analytics?style=flat" width=100/></a>
 [Swetrix](https://github.com/Swetrix/swetrix)|[swetrix.com](https://swetrix.com/)|<a href=https://github.com/Swetrix/swetrix><img src="https://img.shields.io/github/stars/Swetrix/swetrix?style=flat" width=100/></a>
 [OpenPanel](https://github.com/Openpanel-dev/openpanel)|[openpanel.dev](https://openpanel.dev/)|<a href=https://github.com/Openpanel-dev/openpanel><img src="https://img.shields.io/github/stars/Openpanel-dev/openpanel?style=flat" width=100/></a>
@@ -70,6 +74,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 [Notesnook](https://github.com/streetwriters/notesnook)|[notesnook.com](https://notesnook.com/)|<a href=https://github.com/streetwriters/notesnook><img src="https://img.shields.io/github/stars/streetwriters/notesnook?style=flat" width=100/></a>
 [Trilium Notes](https://github.com/TriliumNext/Trilium)|[triliumnotes.org](https://triliumnotes.org/)|<a href=https://github.com/TriliumNext/Trilium><img src="https://img.shields.io/github/stars/TriliumNext/Trilium?style=flat" width=100/></a>
 [Memos](https://github.com/usememos/memos)|[usememos.com](https://www.usememos.com/)|<a href=https://github.com/usememos/memos><img src="https://img.shields.io/github/stars/usememos/memos?style=flat" width=100/></a>
+[TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5)|[tiddlywiki.com](https://tiddlywiki.com)|<a href=https://github.com/TiddlyWiki/TiddlyWiki5><img src="https://img.shields.io/github/stars/TiddlyWiki/TiddlyWiki5?style=flat" width=100/></a>
 [Standard Notes](https://github.com/standardnotes/app)|[standardnotes.com](https://standardnotes.com/)|<a href=https://github.com/standardnotes/app><img src="https://img.shields.io/github/stars/standardnotes/app?style=flat" width=100/></a>
 
 ### Company blogs/ newsletters (WordPress alternatives):
@@ -88,6 +93,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 |:-------|:------|:----------|
 [listmonk](https://github.com/knadh/listmonk)|[listmonk.app](https://listmonk.app/)|<a href=https://github.com/knadh/listmonk><img src="https://img.shields.io/github/stars/knadh/listmonk?style=flat" width=100/></a>
 [Mautic](https://github.com/mautic/mautic)|[mautic.org](https://www.mautic.org/)|<a href=https://github.com/mautic/mautic><img src="https://img.shields.io/github/stars/mautic/mautic?style=flat" width=100/></a>
+[Mailtrain](https://github.com/Mailtrain-org/mailtrain)|[mailtrain.org](https://mailtrain.org)|<a href=https://github.com/Mailtrain-org/mailtrain><img src="https://img.shields.io/github/stars/Mailtrain-org/mailtrain?style=flat" width=100/></a>
 [Keila](https://github.com/pentacent/keila)|[keila.io](https://www.keila.io/)|<a href=https://github.com/pentacent/keila><img src="https://img.shields.io/github/stars/pentacent/keila?style=flat" width=100/></a>
 
 ### Static website generator:
@@ -134,6 +140,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 |:-------|:------|:----------|
 [Formbricks](https://github.com/formbricks/formbricks)|[formbricks.com](https://formbricks.com/)|<a href=https://github.com/formbricks/formbricks><img src="https://img.shields.io/github/stars/formbricks/formbricks?style=flat" width=100/></a>
 [OpnForm](https://github.com/JhumanJ/OpnForm)|[opnform.com](https://opnform.com/)|<a href=https://github.com/JhumanJ/OpnForm><img src="https://img.shields.io/github/stars/JhumanJ/OpnForm?style=flat" width=100/></a>
+[Typebot](https://github.com/baptisteArno/typebot.io)|[typebot.io](https://typebot.io)|<a href=https://github.com/baptisteArno/typebot.io><img src="https://img.shields.io/github/stars/baptisteArno/typebot.io?style=flat" width=100/></a>
 [HeyForm](https://github.com/heyform/heyform)|[heyform.net](https://heyform.net/)|<a href=https://github.com/heyform/heyform><img src="https://img.shields.io/github/stars/heyform/heyform?style=flat" width=100/></a>
 
 ### Session replay and analytics (Fullstory alternatives):
@@ -155,6 +162,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 ### Log management (Papertrail alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
+[OpenSearch](https://github.com/opensearch-project/OpenSearch)|[opensearch.org](https://opensearch.org)|<a href=https://github.com/opensearch-project/OpenSearch><img src="https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=flat" width=100/></a>
 [Graylog](https://github.com/Graylog2/graylog2-server)|[graylog.org](https://www.graylog.org/)|<a href=https://github.com/Graylog2/graylog2-server><img src="https://img.shields.io/github/stars/Graylog2/graylog2-server?style=flat" width=100/></a>
 [Grafana Loki](https://github.com/grafana/loki)|[grafana.com/oss/loki](https://grafana.com/oss/loki/)|<a href=https://github.com/grafana/loki><img src="https://img.shields.io/github/stars/grafana/loki?style=flat" width=100/></a>
 [SigNoz](https://github.com/SigNoz/signoz)|[signoz.io](https://signoz.io/)|<a href=https://github.com/SigNoz/signoz><img src="https://img.shields.io/github/stars/SigNoz/signoz?style=flat" width=100/></a>
@@ -225,6 +233,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 [Zulip](https://github.com/zulip/zulip)|[zulip.com](https://zulip.com/)|<a href=https://github.com/zulip/zulip><img src="https://img.shields.io/github/stars/zulip/zulip?style=flat" width=100/></a>
 [Element](https://github.com/vector-im/element-web)|[element.io](https://element.io)|<a href=https://github.com/vector-im/element-web><img src="https://img.shields.io/github/stars/vector-im/element-web?style=flat" width=100/></a>
 [Spacebar](https://github.com/spacebarchat/spacebarchat)|[spacebar.chat](https://spacebar.chat/)|<a href=https://github.com/spacebarchat/spacebarchat><img src="https://img.shields.io/github/stars/spacebarchat/spacebarchat?style=flat" width=100/></a>
+[Synapse](https://github.com/element-hq/synapse)|[matrix.org](https://matrix.org)|<a href=https://github.com/element-hq/synapse><img src="https://img.shields.io/github/stars/element-hq/synapse?style=flat" width=100/></a>
 [RelatedChat](https://github.com/relatedcode/Messenger)|[relatedcode.com](https://relatedcode.com/)|<a href=https://github.com/relatedcode/Messenger><img src="https://img.shields.io/github/stars/relatedcode/Messenger?style=flat" width=100/></a>
 [Mezon](https://github.com/mezonai/mezon)|[mezon.ai](https://mezon.ai/)|<a href=https://github.com/mezonai/mezon><img src="https://img.shields.io/github/stars/mezonai/mezon?style=flat" width=100/></a>
 
@@ -232,12 +241,14 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Chatwoot](https://github.com/chatwoot/chatwoot)|[chatwoot.com](https://www.chatwoot.com/)|<a href=https://github.com/chatwoot/chatwoot><img src="https://img.shields.io/github/stars/chatwoot/chatwoot?style=flat" width=100/></a>
+[Chaskiq](https://github.com/chaskiq/chaskiq)|[chaskiq.io](https://chaskiq.io)|<a href=https://github.com/chaskiq/chaskiq><img src="https://img.shields.io/github/stars/chaskiq/chaskiq?style=flat" width=100/></a>
 [LiveHelperChat](https://github.com/LiveHelperChat/livehelperchat)|[livehelperchat.com](https://livehelperchat.com/)|<a href=https://github.com/LiveHelperChat/livehelperchat><img src="https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=flat" width=100/></a>
 
 ### User authentication (Auth0 alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Keycloak](https://github.com/keycloak/keycloak)|[keycloak.org](https://www.keycloak.org/)|<a href=https://github.com/keycloak/keycloak><img src="https://img.shields.io/github/stars/keycloak/keycloak?style=flat" width=100/></a>
+[Authelia](https://github.com/authelia/authelia)|[authelia.com](https://authelia.com)|<a href=https://github.com/authelia/authelia><img src="https://img.shields.io/github/stars/authelia/authelia?style=flat" width=100/></a>
 [SuperTokens](https://github.com/supertokens/supertokens-core)|[supertokens.com](https://supertokens.com/)|<a href=https://github.com/supertokens/supertokens-core><img src="https://img.shields.io/github/stars/supertokens/supertokens-core?style=flat" width=100/></a>
 [Logto](https://github.com/logto-io/logto)|[logto.io](https://logto.io/)|<a href=https://github.com/logto-io/logto><img src="https://img.shields.io/github/stars/logto-io/logto?style=flat" width=100/></a>
 [Authgear](https://github.com/authgear/authgear-server)|[authgear.com](https://www.authgear.com/)|<a href=https://github.com/authgear/authgear-server><img src="https://img.shields.io/github/stars/authgear/authgear-server?style=flat" width=100/></a>
@@ -280,6 +291,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Medusa](https://github.com/medusajs/medusa)|[medusajs.com](https://medusajs.com/)|<a href=https://github.com/medusajs/medusa><img src="https://img.shields.io/github/stars/medusajs/medusa?style=flat" width=100/></a>
+[Spree Commerce](https://github.com/spree/spree)|[spreecommerce.org](https://spreecommerce.org)|<a href=https://github.com/spree/spree><img src="https://img.shields.io/github/stars/spree/spree?style=flat" width=100/></a>
 [Vue Storefront](https://github.com/vuestorefront/vue-storefront)|[vuestorefront.io](https://vuestorefront.io/)|<a href=https://github.com/vuestorefront/vue-storefront><img src="https://img.shields.io/github/stars/vuestorefront/vue-storefront?style=flat" width=100/></a>
 [Sylius](https://github.com/sylius/sylius)|[sylius.com](https://sylius.com/)|<a href=https://github.com/sylius/sylius><img src="https://img.shields.io/github/stars/Sylius/Sylius?style=flat" width=100/></a>
 [Presta](https://github.com/PrestaShop/PrestaShop)|[prestashop-project.org](https://www.prestashop-project.org/)|<a href=https://github.com/PrestaShop/PrestaShop><img src="https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=flat" width=100/></a>
@@ -327,6 +339,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 |:-------|:------|:----------|
 [hoppscotch](https://github.com/hoppscotch/hoppscotch)|[hoppscotch.io](https://hoppscotch.io/)|<a href=https://github.com/hoppscotch/hoppscotch><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat" width=100/></a>
 [Insomnia](https://github.com/Kong/insomnia)|[insomnia.rest](https://insomnia.rest/)|<a href=https://github.com/Kong/insomnia><img src="https://img.shields.io/github/stars/Kong/insomnia?style=flat" width=100/></a>
+[Mockoon](https://github.com/mockoon/mockoon)|[mockoon.com](https://mockoon.com)|<a href=https://github.com/mockoon/mockoon><img src="https://img.shields.io/github/stars/mockoon/mockoon?style=flat" width=100/></a>
 [Firecamp](https://github.com/firecamp-dev/firecamp)|[firecamp.dev](https://firecamp.dev)|<a href=https://github.com/firecamp-dev/firecamp><img src="https://img.shields.io/github/stars/firecamp-dev/firecamp?style=flat" width=100/></a>
 [Bruno](https://github.com/usebruno/bruno)|[usebruno.com](https://www.usebruno.com/)|<a href=https://github.com/usebruno/bruno><img src="https://img.shields.io/github/stars/usebruno/bruno?style=flat" width=100/></a>
 [Voiden](https://github.com/VoidenHQ/voiden)|[voiden.md](https://voiden.md/)|<a href=https://github.com/VoidenHQ/voiden><img src="https://img.shields.io/github/stars/VoidenHQ/voiden?style=flat" width=100/></a>
@@ -374,6 +387,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 |:-------|:------|:----------|
 [Jitsi Meet](https://github.com/jitsi/jitsi-meet)|[jitsi.org](https://jitsi.org/)|<a href=https://github.com/jitsi/jitsi-meet><img src="https://img.shields.io/github/stars/jitsi/jitsi-meet?style=flat" width=100/></a>
 [Element Call](https://github.com/vector-im/element-call)|[call.element.io](https://call.element.io/)|<a href=https://github.com/vector-im/element-call><img src="https://img.shields.io/github/stars/vector-im/element-call?style=flat" width=100/></a>
+[LiveKit](https://github.com/livekit/livekit)|[livekit.io](https://livekit.io)|<a href=https://github.com/livekit/livekit><img src="https://img.shields.io/github/stars/livekit/livekit?style=flat" width=100/></a>
 [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton)|[bigbluebutton.org](https://bigbluebutton.org/)|<a href=https://github.com/bigbluebutton/bigbluebutton><img src="https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=flat" width=100/></a>
 
 ### Personal cloud (Dropbox alternatives):
@@ -381,6 +395,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 |:-------|:------|:----------|
 [Nextcloud](https://github.com/nextcloud/server)|[nextcloud.com](https://nextcloud.com/)|<a href=https://github.com/nextcloud/server><img src="https://img.shields.io/github/stars/nextcloud/server?style=flat" width=100/></a>
 [Syncthing](https://github.com/syncthing/syncthing)|[syncthing.net](https://syncthing.net/)|<a href=https://github.com/syncthing/syncthing><img src="https://img.shields.io/github/stars/syncthing/syncthing?style=flat" width=100/></a>
+[Cloudreve](https://github.com/cloudreve/cloudreve)|[cloudreve.org](https://cloudreve.org)|<a href=https://github.com/cloudreve/cloudreve><img src="https://img.shields.io/github/stars/cloudreve/cloudreve?style=flat" width=100/></a>
 [Seafile](https://github.com/haiwen/seafile)|[seafile.com](https://www.seafile.com/)|<a href=https://github.com/haiwen/seafile><img src="https://img.shields.io/github/stars/haiwen/seafile?style=flat" width=100/></a>
 [ownCloud Infinite Scale](https://github.com/owncloud/ocis)|[owncloud.dev/ocis](https://owncloud.dev/ocis/)|<a href=https://github.com/owncloud/ocis><img src="https://img.shields.io/github/stars/owncloud/ocis?style=flat" width=100/></a>
 
@@ -390,6 +405,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 [Metabase](https://github.com/metabase/metabase)|[metabase.com](https://www.metabase.com/)|<a href=https://github.com/metabase/metabase><img src="https://img.shields.io/github/stars/metabase/metabase?style=flat" width=100/></a>
 [Apache Superset](https://github.com/apache/superset)|[superset.apache.org](https://superset.apache.org/)|<a href=https://github.com/apache/superset><img src="https://img.shields.io/github/stars/apache/superset?style=flat" width=100/></a>
 [Redash](https://github.com/getredash/redash)|[redash.io](https://redash.io/)|<a href=https://github.com/getredash/redash><img src="https://img.shields.io/github/stars/getredash/redash?style=flat" width=100/></a>
+[Cube](https://github.com/cube-js/cube)|[cube.dev](https://cube.dev)|<a href=https://github.com/cube-js/cube><img src="https://img.shields.io/github/stars/cube-js/cube?style=flat" width=100/></a>
 [Lightdash](https://github.com/lightdash/lightdash)|[lightdash.com](https://www.lightdash.com/)|<a href=https://github.com/lightdash/lightdash><img src="https://img.shields.io/github/stars/lightdash/lightdash?style=flat" width=100/></a>
 
 ### Platform-as-a-Service/ PaaS (Heroku, Netlify, Vercel alternatives):
@@ -398,6 +414,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 [Dokku](https://github.com/dokku/dokku)|[dokku.com](https://dokku.com/)|<a href=https://github.com/dokku/dokku><img src="https://img.shields.io/github/stars/dokku/dokku?style=flat" width=100/></a>
 [CapRover](https://github.com/caprover/caprover)|[caprover.com](https://caprover.com/)|<a href=https://github.com/caprover/caprover><img src="https://img.shields.io/github/stars/caprover/caprover?style=flat" width=100/></a>
 [Coolify](https://github.com/coollabsio/coolify)|[coolify.io](https://coolify.io/)|<a href=https://github.com/coollabsio/coolify><img src="https://img.shields.io/github/stars/coollabsio/coolify?style=flat" width=100/></a>
+[Kamal](https://github.com/basecamp/kamal)|[kamal-deploy.org](https://kamal-deploy.org)|<a href=https://github.com/basecamp/kamal><img src="https://img.shields.io/github/stars/basecamp/kamal?style=flat" width=100/></a>
 [Kubero](https://github.com/kubero-dev/kubero)|[kubero.dev](https://www.kubero.dev/)|<a href=https://github.com/kubero-dev/kubero><img src="https://img.shields.io/github/stars/kubero-dev/kubero?style=flat" width=100/></a>
 [Dokploy](https://github.com/Dokploy/dokploy)|[dokploy.com](https://dokploy.com/)|<a href=https://github.com/Dokploy/dokploy><img src="https://img.shields.io/github/stars/Dokploy/dokploy?style=flat" width=100/></a>
 
@@ -409,6 +426,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 ### Bug tracking/ Error tracking (Sentry alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
+[Bugsink](https://github.com/bugsink/bugsink)|[bugsink.com](https://bugsink.com)|<a href=https://github.com/bugsink/bugsink><img src="https://img.shields.io/github/stars/bugsink/bugsink?style=flat" width=100/></a>
 [Bugzilla](https://github.com/bugzilla/bugzilla)|[bugzilla.org](https://www.bugzilla.org/)|<a href=https://github.com/bugzilla/bugzilla><img src="https://img.shields.io/github/stars/bugzilla/bugzilla?style=flat" width=100/></a>
 
 ### Invoicing:
@@ -471,6 +489,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 [Leantime](https://github.com/Leantime/leantime)|[leantime.io](https://leantime.io/)|<a href=https://github.com/Leantime/leantime><img src="https://img.shields.io/github/stars/Leantime/leantime?style=flat" width=100/></a>
 [Huly](https://github.com/hcengineering/platform)|[huly.io](https://huly.io/)|<a href=https://github.com/hcengineering/platform><img src="https://img.shields.io/github/stars/hcengineering/platform?style=flat" width=100/></a>
 [OpenProject](https://github.com/opf/openproject)|[openproject.org](https://www.openproject.org/)|<a href=https://github.com/opf/openproject><img src="https://img.shields.io/github/stars/opf/openproject?style=flat" width=100/></a>
+[Redmine](https://github.com/redmine/redmine)|[redmine.org](https://redmine.org)|<a href=https://github.com/redmine/redmine><img src="https://img.shields.io/github/stars/redmine/redmine?style=flat" width=100/></a>
 
 ### Time Tracking (Toggl, Clockify alternatives)
 |Company|Website|GitHub stars|
@@ -485,11 +504,13 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 [Ghostfolio](https://github.com/ghostfolio/ghostfolio)|[Ghostfol.io](https://ghostfol.io)|<a href=https://github.com/ghostfolio/ghostfolio><img src="https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=flat" width=100/></a>
 [Firefly III](https://github.com/firefly-iii/firefly-iii)|[firefly-iii.org](https://firefly-iii.org)|<a href=https://github.com/firefly-iii/firefly-iii><img src="https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=flat" width=100/></a>
 [Actual Budget](https://github.com/actualbudget/actual)|[actualbudget.org](https://actualbudget.org/)|<a href=https://github.com/actualbudget/actual><img src="https://img.shields.io/github/stars/actualbudget/actual?style=flat" width=100/></a>
+[Wallos](https://github.com/ellite/Wallos)|[github.com/ellite/Wallos](https://github.com/ellite/Wallos)|<a href=https://github.com/ellite/Wallos><img src="https://img.shields.io/github/stars/ellite/Wallos?style=flat" width=100/></a>
 
 ### CRM (Salesforce, Hubspot alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Twenty](https://github.com/twentyhq/twenty)|[Twenty.com](https://twenty.com)|<a href=https://github.com/twentyhq/twenty><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=flat" width=100/></a>
+[Monica](https://github.com/monicahq/monica)|[monicahq.com](https://monicahq.com)|<a href=https://github.com/monicahq/monica><img src="https://img.shields.io/github/stars/monicahq/monica?style=flat" width=100/></a>
 [Customermates](https://github.com/customermates/customermates)|[customermates.com](https://customermates.com/)|<a href=https://github.com/customermates/customermates><img src="https://img.shields.io/github/stars/customermates/customermates?style=flat" width=100/></a>
 [Odoo](https://github.com/odoo/odoo)|[odoo.com](https://www.odoo.com/)|<a href=https://github.com/odoo/odoo><img src="https://img.shields.io/github/stars/odoo/odoo?style=flat" width=100/></a>
 [EspoCRM](https://github.com/espocrm/espocrm)|[espocrm.com](https://www.espocrm.com/)|<a href=https://github.com/espocrm/espocrm><img src="https://img.shields.io/github/stars/espocrm/espocrm?style=flat" width=100/></a>
@@ -521,6 +542,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 |:-------|:------|:----------|
 [Stategraph](https://github.com/terrateamio/terrateam)|[terrateam.io](https://terrateam.io/)|<a href=https://github.com/terrateamio/terrateam><img src="https://img.shields.io/github/stars/terrateamio/terrateam?style=flat" width=100/></a>
 [OpenTofu](https://github.com/opentofu/opentofu)|[opentofu.org](https://opentofu.org/)|<a href=https://github.com/opentofu/opentofu><img src="https://img.shields.io/github/stars/opentofu/opentofu?style=flat" width=100/></a>
+[Pulumi](https://github.com/pulumi/pulumi)|[pulumi.com](https://pulumi.com)|<a href=https://github.com/pulumi/pulumi><img src="https://img.shields.io/github/stars/pulumi/pulumi?style=flat" width=100/></a>
 [Atlantis](https://github.com/runatlantis/atlantis)|[runatlantis.io](https://www.runatlantis.io/)|<a href=https://github.com/runatlantis/atlantis><img src="https://img.shields.io/github/stars/runatlantis/atlantis?style=flat" width=100/></a>
 [Terrakube](https://github.com/AzBuilder/terrakube)|[docs.terrakube.io](https://docs.terrakube.io/)|<a href=https://github.com/AzBuilder/terrakube><img src="https://img.shields.io/github/stars/AzBuilder/terrakube?style=flat" width=100/></a>
 
@@ -552,6 +574,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 |:-------|:------|:----------|
 [Uptime Kuma](https://github.com/louislam/uptime-kuma)|[uptime.kuma.pet](https://uptime.kuma.pet/)|<a href=https://github.com/louislam/uptime-kuma><img src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=flat" width=100/></a>
 [Gatus](https://github.com/TwiN/gatus)|[gatus.io](https://gatus.io/)|<a href=https://github.com/TwiN/gatus><img src="https://img.shields.io/github/stars/TwiN/gatus?style=flat" width=100/></a>
+[Healthchecks.io](https://github.com/healthchecks/healthchecks)|[healthchecks.io](https://healthchecks.io)|<a href=https://github.com/healthchecks/healthchecks><img src="https://img.shields.io/github/stars/healthchecks/healthchecks?style=flat" width=100/></a>
 
 ### Online whiteboard (Miro alternatives):
 |Company|Website|GitHub stars|
@@ -564,6 +587,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 |:-------|:------|:----------|
 [Immich](https://github.com/immich-app/immich)|[immich.app](https://immich.app/)|<a href=https://github.com/immich-app/immich><img src="https://img.shields.io/github/stars/immich-app/immich?style=flat" width=100/></a>
 [PhotoPrism](https://github.com/photoprism/photoprism)|[photoprism.app](https://www.photoprism.app/)|<a href=https://github.com/photoprism/photoprism><img src="https://img.shields.io/github/stars/photoprism/photoprism?style=flat" width=100/></a>
+[Lychee](https://github.com/LycheeOrg/Lychee)|[lycheeorg.dev](https://lycheeorg.dev)|<a href=https://github.com/LycheeOrg/Lychee><img src="https://img.shields.io/github/stars/LycheeOrg/Lychee?style=flat" width=100/></a>
 
 ### Media server (Plex alternatives):
 |Company|Website|GitHub stars|
@@ -574,6 +598,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Infisical](https://github.com/Infisical/infisical)|[infisical.com](https://infisical.com/)|<a href=https://github.com/Infisical/infisical><img src="https://img.shields.io/github/stars/Infisical/infisical?style=flat" width=100/></a>
+[OpenBao](https://github.com/openbao/openbao)|[openbao.org](https://openbao.org)|<a href=https://github.com/openbao/openbao><img src="https://img.shields.io/github/stars/openbao/openbao?style=flat" width=100/></a>
 
 ### Screen recording (Loom alternatives):
 |Company|Website|GitHub stars|
@@ -591,6 +616,7 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 |:-------|:------|:----------|
 [FreshRSS](https://github.com/FreshRSS/FreshRSS)|[freshrss.org](https://freshrss.org/)|<a href=https://github.com/FreshRSS/FreshRSS><img src="https://img.shields.io/github/stars/FreshRSS/FreshRSS?style=flat" width=100/></a>
 [Miniflux](https://github.com/miniflux/v2)|[miniflux.app](https://miniflux.app/)|<a href=https://github.com/miniflux/v2><img src="https://img.shields.io/github/stars/miniflux/v2?style=flat" width=100/></a>
+[Tiny Tiny RSS](https://github.com/tt-rss/tt-rss)|[tt-rss.org](https://tt-rss.org)|<a href=https://github.com/tt-rss/tt-rss><img src="https://img.shields.io/github/stars/tt-rss/tt-rss?style=flat" width=100/></a>
 
 ### Localization/ Translation management (Crowdin, Lokalise alternatives):
 |Company|Website|GitHub stars|
@@ -603,11 +629,449 @@ Find below, my version of the list of **open-source alternatives** to everyday S
 |:-------|:------|:----------|
 [ONLYOFFICE](https://github.com/ONLYOFFICE/DocumentServer)|[onlyoffice.com](https://www.onlyoffice.com/)|<a href=https://github.com/ONLYOFFICE/DocumentServer><img src="https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer?style=flat" width=100/></a>
 [CryptPad](https://github.com/cryptpad/cryptpad)|[cryptpad.org](https://cryptpad.org/)|<a href=https://github.com/cryptpad/cryptpad><img src="https://img.shields.io/github/stars/cryptpad/cryptpad?style=flat" width=100/></a>
+[LibreOffice](https://github.com/LibreOffice/core)|[libreoffice.org](https://libreoffice.org)|<a href=https://github.com/LibreOffice/core><img src="https://img.shields.io/github/stars/LibreOffice/core?style=flat" width=100/></a>
 
 ### Diagramming (Lucidchart, Visio alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [draw.io](https://github.com/jgraph/drawio)|[drawio.com](https://www.drawio.com/)|<a href=https://github.com/jgraph/drawio><img src="https://img.shields.io/github/stars/jgraph/drawio?style=flat" width=100/></a>
+
+### AI workflow & agent builder (Vercel AI, Zapier AI alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Dify](https://github.com/langgenius/dify)|[dify.ai](https://dify.ai)|<a href=https://github.com/langgenius/dify><img src="https://img.shields.io/github/stars/langgenius/dify?style=flat" width=100/></a>
+[Langflow](https://github.com/langflow-ai/langflow)|[langflow.org](https://langflow.org)|<a href=https://github.com/langflow-ai/langflow><img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=flat" width=100/></a>
+
+### Web search engine (Google Search alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[SearXNG](https://github.com/searxng/searxng)|[searxng.org](https://searxng.org)|<a href=https://github.com/searxng/searxng><img src="https://img.shields.io/github/stars/searxng/searxng?style=flat" width=100/></a>
+
+### AI image generation (Midjourney alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|[github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|<a href=https://github.com/AUTOMATIC1111/stable-diffusion-webui><img src="https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=flat" width=100/></a>
+[Fooocus](https://github.com/lllyasviel/Fooocus)|[github.com/lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)|<a href=https://github.com/lllyasviel/Fooocus><img src="https://img.shields.io/github/stars/lllyasviel/Fooocus?style=flat" width=100/></a>
+
+### Machine translation (Google Translate alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)|[libretranslate.com](https://libretranslate.com)|<a href=https://github.com/LibreTranslate/LibreTranslate><img src="https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=flat" width=100/></a>
+
+### ML platform (Databricks, SageMaker alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[MLflow](https://github.com/mlflow/mlflow)|[mlflow.org](https://mlflow.org)|<a href=https://github.com/mlflow/mlflow><img src="https://img.shields.io/github/stars/mlflow/mlflow?style=flat" width=100/></a>
+[Kubeflow](https://github.com/kubeflow/kubeflow)|[kubeflow.org](https://kubeflow.org)|<a href=https://github.com/kubeflow/kubeflow><img src="https://img.shields.io/github/stars/kubeflow/kubeflow?style=flat" width=100/></a>
+
+### Note-taking AI (NotebookLM alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Open Notebook](https://github.com/lfnovo/open-notebook)|[github.com/lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)|<a href=https://github.com/lfnovo/open-notebook><img src="https://img.shields.io/github/stars/lfnovo/open-notebook?style=flat" width=100/></a>
+
+### Code editor (VS Code, Sublime Text alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Zed](https://github.com/zed-industries/zed)|[zed.dev](https://zed.dev)|<a href=https://github.com/zed-industries/zed><img src="https://img.shields.io/github/stars/zed-industries/zed?style=flat" width=100/></a>
+[VSCodium](https://github.com/VSCodium/vscodium)|[vscodium.com](https://vscodium.com)|<a href=https://github.com/VSCodium/vscodium><img src="https://img.shields.io/github/stars/VSCodium/vscodium?style=flat" width=100/></a>
+
+### Cloud IDE (GitHub Codespaces alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[code-server](https://github.com/coder/code-server)|[github.com/coder/code-server](https://github.com/coder/code-server)|<a href=https://github.com/coder/code-server><img src="https://img.shields.io/github/stars/coder/code-server?style=flat" width=100/></a>
+[Coder](https://github.com/coder/coder)|[coder.com](https://coder.com)|<a href=https://github.com/coder/coder><img src="https://img.shields.io/github/stars/coder/coder?style=flat" width=100/></a>
+
+### Git hosting (GitHub, GitLab alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Gitea](https://github.com/go-gitea/gitea)|[gitea.com](https://gitea.com)|<a href=https://github.com/go-gitea/gitea><img src="https://img.shields.io/github/stars/go-gitea/gitea?style=flat" width=100/></a>
+[Gogs](https://github.com/gogs/gogs)|[gogs.io](https://gogs.io)|<a href=https://github.com/gogs/gogs><img src="https://img.shields.io/github/stars/gogs/gogs?style=flat" width=100/></a>
+
+### Git client (GitHub Desktop, Sourcetree alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[lazygit](https://github.com/jesseduffield/lazygit)|[github.com/jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)|<a href=https://github.com/jesseduffield/lazygit><img src="https://img.shields.io/github/stars/jesseduffield/lazygit?style=flat" width=100/></a>
+[GitButler](https://github.com/gitbutlerapp/gitbutler)|[gitbutler.com](https://gitbutler.com)|<a href=https://github.com/gitbutlerapp/gitbutler><img src="https://img.shields.io/github/stars/gitbutlerapp/gitbutler?style=flat" width=100/></a>
+
+### CI/CD (CircleCI, Travis CI alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Jenkins](https://github.com/jenkinsci/jenkins)|[jenkins.io](https://jenkins.io)|<a href=https://github.com/jenkinsci/jenkins><img src="https://img.shields.io/github/stars/jenkinsci/jenkins?style=flat" width=100/></a>
+
+### Continuous delivery (Octopus Deploy alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Argo CD](https://github.com/argoproj/argo-cd)|[argo-cd.readthedocs.io](https://argo-cd.readthedocs.io)|<a href=https://github.com/argoproj/argo-cd><img src="https://img.shields.io/github/stars/argoproj/argo-cd?style=flat" width=100/></a>
+
+### Dependency updates (Dependabot alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Renovate](https://github.com/renovatebot/renovate)|[docs.renovatebot.com](https://docs.renovatebot.com)|<a href=https://github.com/renovatebot/renovate><img src="https://img.shields.io/github/stars/renovatebot/renovate?style=flat" width=100/></a>
+
+### Code quality (SonarCloud alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[SonarQube](https://github.com/SonarSource/sonarqube)|[sonarsource.com](https://sonarsource.com)|<a href=https://github.com/SonarSource/sonarqube><img src="https://img.shields.io/github/stars/SonarSource/sonarqube?style=flat" width=100/></a>
+
+### Security scanning (Snyk, Burp Suite alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[OWASP ZAP](https://github.com/zaproxy/zaproxy)|[zaproxy.org](https://zaproxy.org)|<a href=https://github.com/zaproxy/zaproxy><img src="https://img.shields.io/github/stars/zaproxy/zaproxy?style=flat" width=100/></a>
+
+### SIEM & endpoint security (Splunk, CrowdStrike alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Wazuh](https://github.com/wazuh/wazuh)|[wazuh.com](https://wazuh.com)|<a href=https://github.com/wazuh/wazuh><img src="https://img.shields.io/github/stars/wazuh/wazuh?style=flat" width=100/></a>
+
+### Load testing (LoadRunner, BlazeMeter alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[k6](https://github.com/grafana/k6)|[k6.io](https://k6.io)|<a href=https://github.com/grafana/k6><img src="https://img.shields.io/github/stars/grafana/k6?style=flat" width=100/></a>
+
+### API documentation (ReadMe, SwaggerHub alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Scalar](https://github.com/scalar/scalar)|[scalar.com](https://scalar.com)|<a href=https://github.com/scalar/scalar><img src="https://img.shields.io/github/stars/scalar/scalar?style=flat" width=100/></a>
+
+### GraphQL backend (AWS AppSync alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Hasura](https://github.com/hasura/graphql-engine)|[hasura.io](https://hasura.io)|<a href=https://github.com/hasura/graphql-engine><img src="https://img.shields.io/github/stars/hasura/graphql-engine?style=flat" width=100/></a>
+
+### Realtime messaging (Pusher, Ably alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Centrifugo](https://github.com/centrifugal/centrifugo)|[centrifugal.dev](https://centrifugal.dev)|<a href=https://github.com/centrifugal/centrifugo><img src="https://img.shields.io/github/stars/centrifugal/centrifugo?style=flat" width=100/></a>
+
+### API gateway (Apigee, AWS API Gateway alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Kong](https://github.com/Kong/kong)|[konghq.com](https://konghq.com)|<a href=https://github.com/Kong/kong><img src="https://img.shields.io/github/stars/Kong/kong?style=flat" width=100/></a>
+
+### Web server & reverse proxy (Cloudflare, Nginx Plus alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Caddy](https://github.com/caddyserver/caddy)|[caddyserver.com](https://caddyserver.com)|<a href=https://github.com/caddyserver/caddy><img src="https://img.shields.io/github/stars/caddyserver/caddy?style=flat" width=100/></a>
+
+### Tunnel to localhost (ngrok alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[frp](https://github.com/fatedier/frp)|[github.com/fatedier/frp](https://github.com/fatedier/frp)|<a href=https://github.com/fatedier/frp><img src="https://img.shields.io/github/stars/fatedier/frp?style=flat" width=100/></a>
+
+### Mesh VPN (Tailscale alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[NetBird](https://github.com/netbirdio/netbird)|[netbird.io](https://netbird.io)|<a href=https://github.com/netbirdio/netbird><img src="https://img.shields.io/github/stars/netbirdio/netbird?style=flat" width=100/></a>
+
+### DNS ad blocking (NextDNS alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Pi-hole](https://github.com/pi-hole/pi-hole)|[pi-hole.net](https://pi-hole.net)|<a href=https://github.com/pi-hole/pi-hole><img src="https://img.shields.io/github/stars/pi-hole/pi-hole?style=flat" width=100/></a>
+
+### Hosting control panel (cPanel alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[HestiaCP](https://github.com/hestiacp/hestiacp)|[hestiacp.com](https://hestiacp.com)|<a href=https://github.com/hestiacp/hestiacp><img src="https://img.shields.io/github/stars/hestiacp/hestiacp?style=flat" width=100/></a>
+
+### Configuration management (Chef, Puppet alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Ansible](https://github.com/ansible/ansible)|[ansible.com](https://ansible.com)|<a href=https://github.com/ansible/ansible><img src="https://img.shields.io/github/stars/ansible/ansible?style=flat" width=100/></a>
+
+### Container registry (Docker Hub alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Harbor](https://github.com/goharbor/harbor)|[goharbor.io](https://goharbor.io)|<a href=https://github.com/goharbor/harbor><img src="https://img.shields.io/github/stars/goharbor/harbor?style=flat" width=100/></a>
+
+### Container management (Docker Desktop alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Portainer](https://github.com/portainer/portainer)|[portainer.io](https://portainer.io)|<a href=https://github.com/portainer/portainer><img src="https://img.shields.io/github/stars/portainer/portainer?style=flat" width=100/></a>
+
+### Kubernetes management (OpenShift alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Rancher](https://github.com/rancher/rancher)|[rancher.com](https://rancher.com)|<a href=https://github.com/rancher/rancher><img src="https://img.shields.io/github/stars/rancher/rancher?style=flat" width=100/></a>
+
+### Serverless functions (AWS Lambda alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Fission](https://github.com/fission/fission)|[fission.io](https://fission.io)|<a href=https://github.com/fission/fission><img src="https://img.shields.io/github/stars/fission/fission?style=flat" width=100/></a>
+
+### Message queue & event streaming (AWS SQS, Confluent alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)|[rabbitmq.com](https://rabbitmq.com)|<a href=https://github.com/rabbitmq/rabbitmq-server><img src="https://img.shields.io/github/stars/rabbitmq/rabbitmq-server?style=flat" width=100/></a>
+
+### Workflow orchestration (AWS Step Functions alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Temporal](https://github.com/temporalio/temporal)|[temporal.io](https://temporal.io)|<a href=https://github.com/temporalio/temporal><img src="https://img.shields.io/github/stars/temporalio/temporal?style=flat" width=100/></a>
+
+### Data integration / ELT (Fivetran alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Airbyte](https://github.com/airbytehq/airbyte)|[airbyte.com](https://airbyte.com)|<a href=https://github.com/airbytehq/airbyte><img src="https://img.shields.io/github/stars/airbytehq/airbyte?style=flat" width=100/></a>
+
+### Data catalog (Collibra, Alation alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[OpenMetadata](https://github.com/open-metadata/OpenMetadata)|[open-metadata.org](https://open-metadata.org)|<a href=https://github.com/open-metadata/OpenMetadata><img src="https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=flat" width=100/></a>
+
+### Relational database (Oracle, Aurora alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[PostgreSQL](https://github.com/postgres/postgres)|[postgresql.org](https://postgresql.org)|<a href=https://github.com/postgres/postgres><img src="https://img.shields.io/github/stars/postgres/postgres?style=flat" width=100/></a>
+
+### NoSQL database (MongoDB, DynamoDB alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[FerretDB](https://github.com/FerretDB/FerretDB)|[ferretdb.io](https://ferretdb.io)|<a href=https://github.com/FerretDB/FerretDB><img src="https://img.shields.io/github/stars/FerretDB/FerretDB?style=flat" width=100/></a>
+
+### In-memory data store (Redis alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Valkey](https://github.com/valkey-io/valkey)|[valkey.io](https://valkey.io)|<a href=https://github.com/valkey-io/valkey><img src="https://img.shields.io/github/stars/valkey-io/valkey?style=flat" width=100/></a>
+
+### Database client (DataGrip, TablePlus alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[DBeaver](https://github.com/dbeaver/dbeaver)|[dbeaver.io](https://dbeaver.io)|<a href=https://github.com/dbeaver/dbeaver><img src="https://img.shields.io/github/stars/dbeaver/dbeaver?style=flat" width=100/></a>
+
+### Search engine (Elasticsearch alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Quickwit](https://github.com/quickwit-oss/quickwit)|[quickwit.io](https://quickwit.io)|<a href=https://github.com/quickwit-oss/quickwit><img src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=flat" width=100/></a>
+
+### Observability (Datadog, New Relic alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Grafana](https://github.com/grafana/grafana)|[grafana.com](https://grafana.com)|<a href=https://github.com/grafana/grafana><img src="https://img.shields.io/github/stars/grafana/grafana?style=flat" width=100/></a>
+
+### Network monitoring (SolarWinds, PRTG alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[LibreNMS](https://github.com/librenms/librenms)|[librenms.org](https://librenms.org)|<a href=https://github.com/librenms/librenms><img src="https://img.shields.io/github/stars/librenms/librenms?style=flat" width=100/></a>
+
+### IP address management (Infoblox alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[NetBox](https://github.com/netbox-community/netbox)|[netboxlabs.com](https://netboxlabs.com)|<a href=https://github.com/netbox-community/netbox><img src="https://img.shields.io/github/stars/netbox-community/netbox?style=flat" width=100/></a>
+
+### IT service management (ServiceNow alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[GLPI](https://github.com/glpi-project/glpi)|[glpi-project.org](https://glpi-project.org)|<a href=https://github.com/glpi-project/glpi><img src="https://img.shields.io/github/stars/glpi-project/glpi?style=flat" width=100/></a>
+
+### Wiki (Confluence alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[MediaWiki](https://github.com/wikimedia/mediawiki)|[mediawiki.org](https://mediawiki.org)|<a href=https://github.com/wikimedia/mediawiki><img src="https://img.shields.io/github/stars/wikimedia/mediawiki?style=flat" width=100/></a>
+
+### Document management (DocuWare alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|[docs.paperless-ngx.com](https://docs.paperless-ngx.com)|<a href=https://github.com/paperless-ngx/paperless-ngx><img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=flat" width=100/></a>
+
+### PDF tools (Adobe Acrobat alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF)|[stirlingpdf.com](https://stirlingpdf.com)|<a href=https://github.com/Stirling-Tools/Stirling-PDF><img src="https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=flat" width=100/></a>
+
+### Habit tracker (Habitify alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Habitica](https://github.com/HabitRPG/habitica)|[habitica.com](https://habitica.com)|<a href=https://github.com/HabitRPG/habitica><img src="https://img.shields.io/github/stars/HabitRPG/habitica?style=flat" width=100/></a>
+
+### Fitness tracker (MyFitnessPal alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[wger](https://github.com/wger-project/wger)|[wger.de](https://wger.de)|<a href=https://github.com/wger-project/wger><img src="https://img.shields.io/github/stars/wger-project/wger?style=flat" width=100/></a>
+
+### Recipe manager (Paprika alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Mealie](https://github.com/mealie-recipes/mealie)|[mealie.io](https://mealie.io)|<a href=https://github.com/mealie-recipes/mealie><img src="https://img.shields.io/github/stars/mealie-recipes/mealie?style=flat" width=100/></a>
+
+### Pantry manager (Grocy alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Grocy](https://github.com/grocy/grocy)|[grocy.info](https://grocy.info)|<a href=https://github.com/grocy/grocy><img src="https://img.shields.io/github/stars/grocy/grocy?style=flat" width=100/></a>
+
+### Link in bio (Linktree alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Linkstack](https://github.com/LinkstackOrg/linkstack)|[linkstack.org](https://linkstack.org)|<a href=https://github.com/LinkstackOrg/linkstack><img src="https://img.shields.io/github/stars/LinkstackOrg/linkstack?style=flat" width=100/></a>
+
+### Pastebin (Pastebin alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[PrivateBin](https://github.com/PrivateBin/PrivateBin)|[privatebin.info](https://privatebin.info)|<a href=https://github.com/PrivateBin/PrivateBin><img src="https://img.shields.io/github/stars/PrivateBin/PrivateBin?style=flat" width=100/></a>
+
+### Presentation (PowerPoint, Keynote alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Marp](https://github.com/marp-team/marp-cli)|[marp.app](https://marp.app)|<a href=https://github.com/marp-team/marp-cli><img src="https://img.shields.io/github/stars/marp-team/marp-cli?style=flat" width=100/></a>
+
+### Calendar & contacts (Google Calendar alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Radicale](https://github.com/Kozea/Radicale)|[radicale.org](https://radicale.org)|<a href=https://github.com/Kozea/Radicale><img src="https://img.shields.io/github/stars/Kozea/Radicale?style=flat" width=100/></a>
+
+### ERP (NetSuite, SAP Business One alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[ERPNext](https://github.com/frappe/erpnext)|[erpnext.com](https://erpnext.com)|<a href=https://github.com/frappe/erpnext><img src="https://img.shields.io/github/stars/frappe/erpnext?style=flat" width=100/></a>
+
+### Accounting (QuickBooks, Xero alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Akaunting](https://github.com/akaunting/akaunting)|[akaunting.com](https://akaunting.com)|<a href=https://github.com/akaunting/akaunting><img src="https://img.shields.io/github/stars/akaunting/akaunting?style=flat" width=100/></a>
+
+### HR management (BambooHR, Workday alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[OrangeHRM](https://github.com/orangehrm/orangehrm)|[orangehrm.com](https://orangehrm.com)|<a href=https://github.com/orangehrm/orangehrm><img src="https://img.shields.io/github/stars/orangehrm/orangehrm?style=flat" width=100/></a>
+
+### Mail server (Gmail, Microsoft Exchange alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Mailcow](https://github.com/mailcow/mailcow-dockerized)|[mailcow.email](https://mailcow.email)|<a href=https://github.com/mailcow/mailcow-dockerized><img src="https://img.shields.io/github/stars/mailcow/mailcow-dockerized?style=flat" width=100/></a>
+
+### Messaging (WhatsApp alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Signal Desktop](https://github.com/signalapp/Signal-Desktop)|[signal.org](https://signal.org)|<a href=https://github.com/signalapp/Signal-Desktop><img src="https://img.shields.io/github/stars/signalapp/Signal-Desktop?style=flat" width=100/></a>
+
+### Remote desktop (TeamViewer, AnyDesk alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[RustDesk](https://github.com/rustdesk/rustdesk)|[rustdesk.com](https://rustdesk.com)|<a href=https://github.com/rustdesk/rustdesk><img src="https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat" width=100/></a>
+
+### Object storage (AWS S3 alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[SeaweedFS](https://github.com/seaweedfs/seaweedfs)|[seaweedfs.com](https://seaweedfs.com)|<a href=https://github.com/seaweedfs/seaweedfs><img src="https://img.shields.io/github/stars/seaweedfs/seaweedfs?style=flat" width=100/></a>
+
+### Cloud encryption (Boxcryptor alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Cryptomator](https://github.com/cryptomator/cryptomator)|[cryptomator.org](https://cryptomator.org)|<a href=https://github.com/cryptomator/cryptomator><img src="https://img.shields.io/github/stars/cryptomator/cryptomator?style=flat" width=100/></a>
+
+### Music streaming (Spotify alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Navidrome](https://github.com/navidrome/navidrome)|[navidrome.org](https://navidrome.org)|<a href=https://github.com/navidrome/navidrome><img src="https://img.shields.io/github/stars/navidrome/navidrome?style=flat" width=100/></a>
+
+### Audiobook server (Audible alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Audiobookshelf](https://github.com/advplyr/audiobookshelf)|[audiobookshelf.org](https://audiobookshelf.org)|<a href=https://github.com/advplyr/audiobookshelf><img src="https://img.shields.io/github/stars/advplyr/audiobookshelf?style=flat" width=100/></a>
+
+### Ebook library (Calibre alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Calibre-Web](https://github.com/janeczku/calibre-web)|[github.com/janeczku/calibre-web](https://github.com/janeczku/calibre-web)|<a href=https://github.com/janeczku/calibre-web><img src="https://img.shields.io/github/stars/janeczku/calibre-web?style=flat" width=100/></a>
+
+### Video hosting (YouTube alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[PeerTube](https://github.com/Chocobozzz/PeerTube)|[joinpeertube.org](https://joinpeertube.org)|<a href=https://github.com/Chocobozzz/PeerTube><img src="https://img.shields.io/github/stars/Chocobozzz/PeerTube?style=flat" width=100/></a>
+
+### Live streaming (Twitch, Streamlabs alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Owncast](https://github.com/owncast/owncast)|[owncast.online](https://owncast.online)|<a href=https://github.com/owncast/owncast><img src="https://img.shields.io/github/stars/owncast/owncast?style=flat" width=100/></a>
+
+### Social network (Facebook alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[diaspora*](https://github.com/diaspora/diaspora)|[diasporafoundation.org](https://diasporafoundation.org)|<a href=https://github.com/diaspora/diaspora><img src="https://img.shields.io/github/stars/diaspora/diaspora?style=flat" width=100/></a>
+
+### Link aggregator (Reddit alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Lemmy](https://github.com/LemmyNet/lemmy)|[join-lemmy.org](https://join-lemmy.org)|<a href=https://github.com/LemmyNet/lemmy><img src="https://img.shields.io/github/stars/LemmyNet/lemmy?style=flat" width=100/></a>
+
+### Screenshot tool (Snagit alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Flameshot](https://github.com/flameshot-org/flameshot)|[flameshot.org](https://flameshot.org)|<a href=https://github.com/flameshot-org/flameshot><img src="https://img.shields.io/github/stars/flameshot-org/flameshot?style=flat" width=100/></a>
+
+### Image editing (Photoshop, Illustrator alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[GIMP](https://github.com/GNOME/gimp)|[gimp.org](https://gimp.org)|<a href=https://github.com/GNOME/gimp><img src="https://img.shields.io/github/stars/GNOME/gimp?style=flat" width=100/></a>
+
+### 3D modeling & CAD (Maya, SolidWorks alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Blender](https://github.com/blender/blender)|[blender.org](https://blender.org)|<a href=https://github.com/blender/blender><img src="https://img.shields.io/github/stars/blender/blender?style=flat" width=100/></a>
+
+### Video editing (Premiere Pro alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Shotcut](https://github.com/mltframework/shotcut)|[shotcut.org](https://shotcut.org)|<a href=https://github.com/mltframework/shotcut><img src="https://img.shields.io/github/stars/mltframework/shotcut?style=flat" width=100/></a>
+
+### Audio editing (Adobe Audition alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Audacity](https://github.com/audacity/audacity)|[audacityteam.org](https://audacityteam.org)|<a href=https://github.com/audacity/audacity><img src="https://img.shields.io/github/stars/audacity/audacity?style=flat" width=100/></a>
+
+### Music production (FL Studio alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[LMMS](https://github.com/LMMS/lmms)|[lmms.io](https://lmms.io)|<a href=https://github.com/LMMS/lmms><img src="https://img.shields.io/github/stars/LMMS/lmms?style=flat" width=100/></a>
+
+### Terminal emulator (iTerm2 alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Alacritty](https://github.com/alacritty/alacritty)|[alacritty.org](https://alacritty.org)|<a href=https://github.com/alacritty/alacritty><img src="https://img.shields.io/github/stars/alacritty/alacritty?style=flat" width=100/></a>
+
+### Web browser (Chrome alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Firefox](https://github.com/mozilla-firefox/firefox)|[firefox.com](https://firefox.com)|<a href=https://github.com/mozilla-firefox/firefox><img src="https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat" width=100/></a>
+
+### Operating system (Windows alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[ReactOS](https://github.com/reactos/reactos)|[reactos.org](https://reactos.org)|<a href=https://github.com/reactos/reactos><img src="https://img.shields.io/github/stars/reactos/reactos?style=flat" width=100/></a>
+
+### Mobile OS (Android alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[LineageOS](https://github.com/LineageOS/android)|[lineageos.org](https://lineageos.org)|<a href=https://github.com/LineageOS/android><img src="https://img.shields.io/github/stars/LineageOS/android?style=flat" width=100/></a>
+
+### Maps (Google Maps alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[OpenStreetMap](https://github.com/openstreetmap/openstreetmap-website)|[openstreetmap.org](https://openstreetmap.org)|<a href=https://github.com/openstreetmap/openstreetmap-website><img src="https://img.shields.io/github/stars/openstreetmap/openstreetmap-website?style=flat" width=100/></a>
+
+### Smart home (Google Home, SmartThings alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Home Assistant](https://github.com/home-assistant/core)|[home-assistant.io](https://home-assistant.io)|<a href=https://github.com/home-assistant/core><img src="https://img.shields.io/github/stars/home-assistant/core?style=flat" width=100/></a>
+
+### Game engine (Unity, Unreal Engine alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Godot](https://github.com/godotengine/godot)|[godotengine.org](https://godotengine.org)|<a href=https://github.com/godotengine/godot><img src="https://img.shields.io/github/stars/godotengine/godot?style=flat" width=100/></a>
+
+### Game server panel (Multicraft alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Pterodactyl](https://github.com/pterodactyl/panel)|[pterodactyl.io](https://pterodactyl.io)|<a href=https://github.com/pterodactyl/panel><img src="https://img.shields.io/github/stars/pterodactyl/panel?style=flat" width=100/></a>
+
+### Content management system (WordPress alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Joomla](https://github.com/joomla/joomla-cms)|[joomla.org](https://joomla.org)|<a href=https://github.com/joomla/joomla-cms><img src="https://img.shields.io/github/stars/joomla/joomla-cms?style=flat" width=100/></a>
+
+### Payment orchestration (Stripe, Adyen alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Hyperswitch](https://github.com/juspay/hyperswitch)|[hyperswitch.io](https://hyperswitch.io)|<a href=https://github.com/juspay/hyperswitch><img src="https://img.shields.io/github/stars/juspay/hyperswitch?style=flat" width=100/></a>
 
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
